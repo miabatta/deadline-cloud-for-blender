@@ -11,4 +11,4 @@ on:
 jobs:
   Analysis:
     name: Analysis
-    uses: aws-deadline/.github/.github/workflows/reusable_codeql.yml@mainline
+    uses: miabatta/.github/.github/workflows/reusable_codeql.yml@mainline

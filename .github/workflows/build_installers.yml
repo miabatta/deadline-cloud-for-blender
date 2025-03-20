@@ -18,5 +18,5 @@ jobs:
     permissions:
       id-token: write
       contents: read
-    uses: aws-deadline/.github/.github/workflows/reusable_build_installers.yml@mainline
+    uses: miabatta/.github/.github/workflows/reusable_build_installers.yml@mainline
     secrets: inherit
